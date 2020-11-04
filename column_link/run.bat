@@ -1,0 +1,1 @@
+tasklist|find /i "column_link_oversea" && echo started || start "column_link_oversea" python E:\python_project\find_new_website\column_link\column_link_oversea.py 

@@ -15,14 +15,14 @@ import time
 import re
 
 
-word_list = [
-    '29nh.cn',
-    'xzwyu.com',
-    'chmta.com',
-]
+with open('word.txt', 'r', encoding='utf8') as f:
+    word_list = [i.replace('\n', '') for i in f.readlines()]
+    print(word_list)
+
 
 for i in word_list:
-    sql = f"delete from column_link where domain_code='{i}';"
+    # sql = f"delete from column_link where domain_code='{i}';"
     # sql = f"delete from cloud_listpage_url where domain_code='{i}';"
-    # sql = f"delete from column_link where title='{i}';"
+    # sql = f"delete from column_link where title like'%{i}%';"
+    sql = f"delete from cloud_listpage_url where listpage_title like'%{i}%';"
     print(sql)

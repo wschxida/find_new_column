@@ -15,10 +15,33 @@ from requests.compat import urljoin
 import pymysql
 import re
 import tldextract
-from lib import reject_domain
-from lib import reject_junkword
+import sys
+sys.path.append('..')
 from lib import custom_str_invalid
 from lib import custom_keyword_score
+
+
+cur_path = os.path.dirname(os.path.realpath(__file__))
+# junkword
+junkword_file = os.path.join(cur_path, 'reject_junkword.txt')
+with open(junkword_file, 'r', encoding='utf-8') as jf:
+    reject_junkword_list = [i.replace('\n', '') for i in jf.readlines()]
+# reject_domain
+rj_domain_file = os.path.join(cur_path, 'reject_domain.txt')
+rj_domain_file_custom = os.path.join(cur_path, 'custom_reject_domain.txt')
+reject_domain_list = []
+with open(rj_domain_file, 'r', encoding='utf-8') as rj:
+    for i in rj.readlines():
+        reject_domain = i.replace('\n', '')
+        if reject_domain.startswith('.'):
+            reject_domain = reject_domain[1:]
+        reject_domain_list.append(reject_domain)
+with open(rj_domain_file_custom, 'r', encoding='utf-8') as rjc:
+    for i in rjc.readlines():
+        reject_domain = i.replace('\n', '')
+        if reject_domain.startswith('.'):
+            reject_domain = reject_domain[1:]
+        reject_domain_list.append(reject_domain)
 
 
 def get_token(md5str):
@@ -151,6 +174,20 @@ def is_contains_chinese(in_str):
     return False
 
 
+def get_media_type(url):
+    """
+    判别 url 的媒体类型
+    :param url:
+    :return:
+    """
+    media_type = ''
+    _forum_match = re.findall('bbs|forum|forumdisplay|thread|club|focus|discuz', url)
+    if len(_forum_match) > 0:
+        media_type = 'forum'
+
+    return media_type
+
+
 def is_need_filter(title=None, url=None, is_filter_reject_domain=False):
     score_message = {
         "status": True,
@@ -165,6 +202,7 @@ def is_need_filter(title=None, url=None, is_filter_reject_domain=False):
     title = title.lower()
     url = url.lower()
     host_code = get_host_code(url)
+    domain_code = get_domain_code(url)
 
     # ==============================================================
     # title 部分-----------------------------------------------------
@@ -275,11 +313,11 @@ def is_need_filter(title=None, url=None, is_filter_reject_domain=False):
     # URL除去host后的长度，越大分值越低
     # 取host_code后面的部分,+1是为了末尾是斜杠‘https://new.qq.com/’这种形式的不扣分
     _url_remove_host_code = url[url.index(host_code) + len(host_code) + 1:]
-    _url_len_score = 100 - round(len(_url_remove_host_code) * 2)
+    _url_len_score = 100 - round(len(_url_remove_host_code) * 5)
 
     # url '&' '/'个数
     _param_count = re.findall('[/?&#]', _url_remove_host_code)
-    _param_count_score = 100 - len(_param_count) * 10
+    _param_count_score = 50 - len(_param_count) * 10
     # / 数量过多，则要过滤
     _param_count_slash = re.findall('[/]', _url_remove_host_code)
     if len(_param_count_slash) > 5:
@@ -292,12 +330,18 @@ def is_need_filter(title=None, url=None, is_filter_reject_domain=False):
     if len(_url_filename) > 0 and '.' in _url_filename:
         _url_filename_score = -20
     else:
-        _url_filename_score = 100
+        _url_filename_score = 20
 
     # url 关键词计分
+    # 如果是主页，则计算host；如果不是主页，则去掉host后计算
+    if is_root_url(url):
+        _url_keyword_score_input = host_code
+    else:
+        _url_keyword_score_input = _url_remove_host_code
+    # URL分值计算
     _url_keyword_score_dict = custom_keyword_score.custom_url_keyword_score_dict
     _url_keyword_score_pattern = "|".join(_url_keyword_score_dict.keys())
-    _url_match = re.findall(_url_keyword_score_pattern, url)
+    _url_match = re.findall(_url_keyword_score_pattern, _url_keyword_score_input)
     _re_url_score_p = 0
     _re_url_score_n = 0
     # 这里的逻辑是，取一个正分最高值，和一个负分最低值，两者相加。而不是对所有匹配项累加
@@ -340,7 +384,7 @@ def is_need_filter(title=None, url=None, is_filter_reject_domain=False):
         return score, score_message
 
     # 垃圾词过滤
-    junkword_pattern = "|".join(reject_junkword.reject_junkword_list)
+    junkword_pattern = "|".join(reject_junkword_list)
     junkword_match = re.findall(junkword_pattern, title)
     if len(junkword_match) > 0:
         score_message = '{"status": False, "message": "junkword_match: ' + ','.join(junkword_match) + '"}'
@@ -349,18 +393,19 @@ def is_need_filter(title=None, url=None, is_filter_reject_domain=False):
 
     # 垃圾域名过滤,速度比较慢，适用于无限制爬虫
     if is_filter_reject_domain:
-        reject_domain_pattern = "|".join(reject_domain.reject_domain_list)
-        reject_domain_match = re.findall(reject_domain_pattern, host_code)
-        if len(reject_domain_match) > 0:
-            score_message = '{"status": False, "message": "reject_domain_match: ' + ','.join(reject_domain_match) + '"}'
+        # reject_domain_pattern = "|".join(reject_domain_list)
+        # reject_domain_match = re.findall(reject_domain_pattern, host_code)
+        # if len(reject_domain_match) > 0:
+        if domain_code in reject_domain_list:
+            score_message = '{"status": False, "message": "reject_domain_match: ' + domain_code + '"}'
             score = -100
             return score, score_message
     # ==============================================================
 
     # 经过上面处理如果还没被过滤，假如是首页则置100分
-    if is_root_url(url):
-        score_message = '{"status": True, "message": "root page"}'
-        score = 100
+    # if is_root_url(url):
+    #     score_message = '{"status": True, "message": "root page"}'
+    #     score = 100
 
     score_message = json.dumps(score_message)
     return score, score_message
@@ -370,9 +415,9 @@ if __name__ == '__main__':
     _title = '1.22.5L'
     _listpage_url = 'http://jtuniu.com/content/avi/wwwgesgcc.com.cngo.php'
 
-    level_score, status = is_need_filter(_title, _listpage_url, False)
-
-    print(level_score, status)
+    # level_score, status = is_need_filter(_title, _listpage_url, False)
+    print(reject_domain_list)
+    print(len(reject_domain_list))
 
 
 

@@ -79,6 +79,8 @@ def query_mysql(config_params, query_sql):
         cur = conn.cursor()
         cur.execute(query_sql)  # 执行sql语句
         results = cur.fetchall()  # 获取查询的所有记录
+        if 'delete' in query_sql or 'update' in query_sql:
+            results = cur.rowcount
         conn.close()  # 关闭连接
     except Exception as e:
         pass

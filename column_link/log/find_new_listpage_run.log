@@ -1,0 +1,1392 @@
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/camisetas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/camperas-tapados-trenchs/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/enteritos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/lotes-ropa/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/pantalones-jeans/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/polleras/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/ropa-danza/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/ropa-deportiva/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/ropa-interior-dormir/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://ropa.mercadolibre.com.py/ropa-bebes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/shorts/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/sweaters/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://ropa.mercadolibre.com.py/trajes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/uniformes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://ropa.mercadolibre.com.py/vestidos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://ropa.mercadolibre.com.py/vestidos-bano/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/zapatos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/ropa-relojes-y-lentes-otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/apartamento/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/bodegas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/casa/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/fincas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/habitaciones/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/lotes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/oficina/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/instrumentos-musicales/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/baterias-percusion/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/equipos-dj-accesorios/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/estudio-grabacion/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/instrumentos-cuerdas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/instrumentos-viento/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/metronomos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/parlantes-bafles/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/partituras-letras/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/pedales-accesorios/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/teclados-pianos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/instrumentos-musicales-otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/joyas-y-relojes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/exhibidores-joyeros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/insumos-joyeria/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/joyas-bisuteria/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/piedras-preciosas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/piercings/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/plumas-lapiceras-lujo/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/pulsometros-cronometros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/relojes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/repuestos-relojes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/smartwatch/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://joyas.mercadolibre.com.py/relojes-otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/juegos-y-juguetes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/bloques-construccion/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/casas-carpas-ninos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/electronicos-ninos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/figuritas-albumes-cromos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/hobbies/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/instrumentos-musicale/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-agua-playa/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-mesa-cartas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-plaza-aire-libre/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-salon/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juguetes-bromas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juguetes-oficios/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juguetes-bebes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/mesas-sillas-ninos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/munecos-munecas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/patines-patinetas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/peloteros-castillos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/peluches/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/titeres-marionetas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/vehiculos-juguete/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juguetes-vehiculos-ninos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-y-juguetes-otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/libros-revistas-y-comics/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/catalogos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/comics/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/libros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/manga/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/revistas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/libros-revistas-y-comics-otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/musica-y-peliculas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/cursos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/musica/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/peliculas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/series-tv/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/musica-y-peliculas-otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/belleza-higiene-personal/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/ensenanza/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/fiestas-y-eventos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/mantenimiento-hogar/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/medicos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/transporte-general/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/viajes-y-turismo/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/servicios-otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/otras-categorias/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/adultos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/delicatessen/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/animales-y-mascotas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/bebes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/belleza-cuidado-personal/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/cigarros-afines/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/coberturas-extendidas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/criptomonedas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/esoterismo/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/gift-cards/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/industrias-y-oficinas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/insumos-tatuajes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/kits-criminalistica/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/licencias-taxis/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/mangas-viento/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/pirotecnia/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/salud-equipamiento-medico/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/otras-categorias-otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1747-accesorios_para_vehiculos
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1512-agro
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1403-alimentos_y_bebidas
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1071-animales_y_mascotas
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1367-antiguedades_y_colecciones
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/443829-arte__libreria_y_merceria
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1743-autos__motos_y_otros
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1384-bebes
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1246-belleza_y_cuidado_personal
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1039-camaras_y_accesorios
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1051-celulares_y_telefonos
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1648-computacion
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1144-consolas_y_videojuegos
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1276-deportes_y_fitness
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1575-electrodomesticos
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1000-electronica__audio_y_video
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1574-hogar__muebles_y_jardin
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1499-industrias_y_oficinas
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1459-inmuebles
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1182-instrumentos_musicales
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/3937-joyas_y_relojes
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1132-juegos_y_juguetes
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/3025-libros__revistas_y_comics
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1168-musica_y_peliculas
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1430-ropa_y_accesorios
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/409431-salud_y_equipamiento_medico
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1540-servicios
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1953-otras_categorias
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/ropa/bolsos-carteras-billeteras/carteras/guess-cartera
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/goliat-monta%C3%B1era-colca
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/industria-textil/pulpo-estampado-textil
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/zapatillas-terrex-adidas
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/mangas-termocontraibles
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/salud-belleza/vitaminas-centrum
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/fitness-musculacion/malvinas-pesas
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/futbol-ropa-calzado-camisetas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/malla-electrosoldada
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/servilletas-de-tela
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/pulsometro
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/acc-motos-cuatrimotos-cascos/casco-cross
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/casa-en-alquiler
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/salud-equipamiento-medico-suplementos/magnesio
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/videojuegos/volante-pc
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/push-up
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/macetero
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/vehiculos/camiones/camion-foton-aumark
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/ropa-de-ba%C3%B1o-ni%C3%B1a
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/electronica/audio/auriculares/sennheiser-audifonos
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/autos/autos-camionetas/volkswagen-golf
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/autos/autos-camionetas/honda-accord
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/quemadores-para-cocina
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/r15
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/volquetes-en-tacna
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/electrodomesticos-belleza-planchitas/alisadora
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/casacas-sacos-blazers/casaca-tommy
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/hormiguero
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/electrodomesticos/coccion/hornos/horno-electrico-thomas
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/luminaria
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/andadores-caminadores/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/andadores-vehiculos-bebes-bicicletas-equilibrio/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/correpasillos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/triciclos/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/adaptador-inodoro/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/almohadas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/bacin-entrenamiento/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/baneras/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/batas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/cepillos-dientes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/sillas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/termometros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/toallas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/urinarios/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/cambiadores-portatiles/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/articulos-maternidad-diarios-bebes/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/fajas-embarazadas/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/kit/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/articulos-maternidad-pezoneras/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/ropa/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/chupones/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/alimentarios/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/mordedores/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/otros/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/porta-chupones/
+2020-12-02 11:26:29 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/comida/bebidas/
+2020-12-02 11:26:30 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/viajes-y-turismo/
+2020-12-02 11:26:31 - filelock.py[line:274] - INFO: Lock 1502213725968 acquired on C:\Users\DELL\AppData\Local\Programs\Python\Python39\lib\site-packages\tldextract\.suffix_cache/publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2020-12-02 11:26:31 - filelock.py[line:274] - INFO: Lock 1502213873088 acquired on C:\Users\DELL\AppData\Local\Programs\Python\Python39\lib\site-packages\tldextract\.suffix_cache/urls\62bf135d1c2f3d4db4228b9ecaf507a2.tldextract.json.lock
+2020-12-02 11:26:31 - filelock.py[line:318] - INFO: Lock 1502213873088 released on C:\Users\DELL\AppData\Local\Programs\Python\Python39\lib\site-packages\tldextract\.suffix_cache/urls\62bf135d1c2f3d4db4228b9ecaf507a2.tldextract.json.lock
+2020-12-02 11:26:31 - filelock.py[line:318] - INFO: Lock 1502213725968 released on C:\Users\DELL\AppData\Local\Programs\Python\Python39\lib\site-packages\tldextract\.suffix_cache/publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2020-12-02 11:26:31 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/transporte-general/
+2020-12-02 11:26:31 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/fiestas-y-eventos/
+2020-12-02 11:26:32 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/musica/
+2020-12-02 11:26:32 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/pantalones-jeans/
+2020-12-02 11:26:33 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/repuestos-relojes/
+2020-12-02 11:26:33 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/relojes/
+2020-12-02 11:26:34 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/polleras/
+2020-12-02 11:26:34 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/estudio-grabacion/
+2020-12-02 11:26:35 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/ropa-danza/
+2020-12-02 11:26:35 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/uniformes/
+2020-12-02 11:26:36 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://ropa.mercadolibre.com.py/trajes/
+2020-12-02 11:26:36 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/piedras-preciosas/
+2020-12-02 11:26:36 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/belleza-higiene-personal/
+2020-12-02 11:26:37 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/peluches/
+2020-12-02 11:26:37 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://home.mercadolibre.com.py/joyas-y-relojes/
+2020-12-02 11:26:38 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/peloteros-castillos/
+2020-12-02 11:26:38 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/animales-y-mascotas/
+2020-12-02 11:26:39 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/adultos/
+2020-12-02 11:26:39 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juegos-y-juguetes-otros/
+2020-12-02 11:26:40 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/partituras-letras/
+2020-12-02 11:26:40 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/vehiculos-juguete/
+2020-12-02 11:26:41 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/electronicos-ninos/
+2020-12-02 11:26:41 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://inmuebles.mercadolibre.com.py/apartamento/
+2020-12-02 11:26:41 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/industrias-y-oficinas/
+2020-12-02 11:26:42 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/cigarros-afines/
+2020-12-02 11:26:42 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/vehiculos/camiones/camion-foton-aumark
+2020-12-02 11:26:42 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/urinarios/
+2020-12-02 11:26:42 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/zapatillas-terrex-adidas
+2020-12-02 11:26:42 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1499-industrias_y_oficinas
+2020-12-02 11:26:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/3937-joyas_y_relojes
+2020-12-02 11:26:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/termometros/
+2020-12-02 11:26:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1459-inmuebles
+2020-12-02 11:26:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/kit/
+2020-12-02 11:26:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/mangas-termocontraibles
+2020-12-02 11:26:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/luminaria
+2020-12-02 11:26:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/goliat-monta%C3%B1era-colca
+2020-12-02 11:26:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1071-animales_y_mascotas
+2020-12-02 11:26:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1132-juegos_y_juguetes
+2020-12-02 11:26:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/bacin-entrenamiento/
+2020-12-02 11:26:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/porta-chupones/
+2020-12-02 11:26:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1574-hogar__muebles_y_jardin
+2020-12-02 11:26:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/electronica/audio/auriculares/sennheiser-audifonos
+2020-12-02 11:26:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1039-camaras_y_accesorios
+2020-12-02 11:26:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/ropa/
+2020-12-02 11:26:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1367-antiguedades_y_colecciones
+2020-12-02 11:26:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/cepillos-dientes/
+2020-12-02 11:26:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/electrodomesticos/coccion/hornos/horno-electrico-thomas
+2020-12-02 11:26:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/malla-electrosoldada
+2020-12-02 11:26:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/andadores-vehiculos-bebes-bicicletas-equilibrio/
+2020-12-02 11:26:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/servilletas-de-tela
+2020-12-02 11:26:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/otros/
+2020-12-02 11:26:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/acc-motos-cuatrimotos-cascos/casco-cross
+2020-12-02 11:26:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/ropa/bolsos-carteras-billeteras/carteras/guess-cartera
+2020-12-02 11:26:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1540-servicios
+2020-12-02 11:26:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1953-otras_categorias
+2020-12-02 11:26:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1182-instrumentos_musicales
+2020-12-02 11:26:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/3025-libros__revistas_y_comics
+2020-12-02 11:26:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/ropa-de-ba%C3%B1o-ni%C3%B1a
+2020-12-02 11:26:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1747-accesorios_para_vehiculos
+2020-12-02 11:26:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/quemadores-para-cocina
+2020-12-02 11:26:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/fitness-musculacion/malvinas-pesas
+2020-12-02 11:26:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1144-consolas_y_videojuegos
+2020-12-02 11:26:47 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/gift-cards/
+2020-12-02 11:26:47 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/mantenimiento-hogar/
+2020-12-02 11:26:48 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://ropa.mercadolibre.com.py/vestidos-bano/
+2020-12-02 11:26:48 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://inmuebles.mercadolibre.com.py/oficina/
+2020-12-02 11:26:48 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://ropa.mercadolibre.com.py/vestidos/
+2020-12-02 11:26:49 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/camisetas/
+2020-12-02 11:26:49 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/revistas/
+2020-12-02 11:26:50 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/medicos/
+2020-12-02 11:26:50 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/kits-criminalistica/
+2020-12-02 11:26:51 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juguetes-bromas/
+2020-12-02 11:26:51 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/manga/
+2020-12-02 11:26:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/instrumentos-musicales-otros/
+2020-12-02 11:26:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/r15
+2020-12-02 11:26:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/hormiguero
+2020-12-02 11:26:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/futbol-ropa-calzado-camisetas/
+2020-12-02 11:26:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/electrodomesticos-belleza-planchitas/alisadora
+2020-12-02 11:26:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/chupones/
+2020-12-02 11:26:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/macetero
+2020-12-02 11:26:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1051-celulares_y_telefonos
+2020-12-02 11:26:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/volquetes-en-tacna
+2020-12-02 11:26:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1403-alimentos_y_bebidas
+2020-12-02 11:26:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/andadores-caminadores/
+2020-12-02 11:26:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1648-computacion
+2020-12-02 11:26:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1246-belleza_y_cuidado_personal
+2020-12-02 11:26:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/push-up
+2020-12-02 11:26:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/mordedores/
+2020-12-02 11:26:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/articulos-maternidad-diarios-bebes/
+2020-12-02 11:26:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1430-ropa_y_accesorios
+2020-12-02 11:26:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1000-electronica__audio_y_video
+2020-12-02 11:26:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/triciclos/
+2020-12-02 11:26:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/industria-textil/pulpo-estampado-textil
+2020-12-02 11:26:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1575-electrodomesticos
+2020-12-02 11:26:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/almohadas/
+2020-12-02 11:26:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/videojuegos/volante-pc
+2020-12-02 11:26:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/articulos-maternidad-pezoneras/
+2020-12-02 11:26:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/comida/bebidas/
+2020-12-02 11:26:55 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/pedales-accesorios/
+2020-12-02 11:26:55 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juguetes-oficios/
+2020-12-02 11:26:56 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juegos-agua-playa/
+2020-12-02 11:26:56 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://inmuebles.mercadolibre.com.py/habitaciones/
+2020-12-02 11:26:56 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/sillas/
+2020-12-02 11:26:57 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/otros/
+2020-12-02 11:26:57 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/409431-salud_y_equipamiento_medico
+2020-12-02 11:26:57 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/salud-belleza/vitaminas-centrum
+2020-12-02 11:26:57 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/cambiadores-portatiles/
+2020-12-02 11:26:57 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/series-tv/
+2020-12-02 11:26:58 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juegos-mesa-cartas/
+2020-12-02 11:26:58 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/autos/autos-camionetas/honda-accord
+2020-12-02 11:26:58 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/insumos-tatuajes/
+2020-12-02 11:26:59 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://joyas.mercadolibre.com.py/relojes-otros/
+2020-12-02 11:26:59 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/pirotecnia/
+2020-12-02 11:27:00 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juegos-plaza-aire-libre/
+2020-12-02 11:27:00 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/salud-equipamiento-medico/
+2020-12-02 11:27:01 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/licencias-taxis/
+2020-12-02 11:27:02 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/libros-revistas-y-comics-otros/
+2020-12-02 11:27:02 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/esoterismo/
+2020-12-02 11:27:02 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/zapatos/
+2020-12-02 11:27:03 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/titeres-marionetas/
+2020-12-02 11:27:03 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/belleza-cuidado-personal/
+2020-12-02 11:27:04 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/ensenanza/
+2020-12-02 11:27:04 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/libros/
+2020-12-02 11:27:05 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/mangas-viento/
+2020-12-02 11:27:05 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/catalogos/
+2020-12-02 11:27:06 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/plumas-lapiceras-lujo/
+2020-12-02 11:27:06 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/musica-y-peliculas-otros/
+2020-12-02 11:27:06 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/pulsometro
+2020-12-02 11:27:06 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/batas/
+2020-12-02 11:27:07 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/casacas-sacos-blazers/casaca-tommy
+2020-12-02 11:27:07 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1512-agro
+2020-12-02 11:27:07 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/correpasillos/
+2020-12-02 11:27:07 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/autos/autos-camionetas/volkswagen-golf
+2020-12-02 11:27:07 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/figuritas-albumes-cromos/
+2020-12-02 11:27:08 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/bloques-construccion/
+2020-12-02 11:27:08 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/ropa-deportiva/
+2020-12-02 11:27:09 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/pulsometros-cronometros/
+2020-12-02 11:27:09 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/delicatessen/
+2020-12-02 11:27:10 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/mesas-sillas-ninos/
+2020-12-02 11:27:10 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/alimentarios/
+2020-12-02 11:27:10 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/toallas/
+2020-12-02 11:27:10 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1743-autos__motos_y_otros
+2020-12-02 11:27:10 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/camisetas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/camperas-tapados-trenchs/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/enteritos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/lotes-ropa/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/pantalones-jeans/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/polleras/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/ropa-danza/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/ropa-deportiva/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/ropa-interior-dormir/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://ropa.mercadolibre.com.py/ropa-bebes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/shorts/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/sweaters/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://ropa.mercadolibre.com.py/trajes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/uniformes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://ropa.mercadolibre.com.py/vestidos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://ropa.mercadolibre.com.py/vestidos-bano/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/zapatos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/ropa-relojes-y-lentes-otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/apartamento/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/bodegas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/casa/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/fincas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/habitaciones/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/lotes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/oficina/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://inmuebles.mercadolibre.com.py/otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/instrumentos-musicales/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/baterias-percusion/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/equipos-dj-accesorios/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/estudio-grabacion/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/instrumentos-cuerdas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/instrumentos-viento/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/metronomos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/parlantes-bafles/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/partituras-letras/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/pedales-accesorios/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/teclados-pianos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/instrumentos-musicales-otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/joyas-y-relojes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/exhibidores-joyeros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/insumos-joyeria/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/joyas-bisuteria/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/piedras-preciosas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/piercings/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/plumas-lapiceras-lujo/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/pulsometros-cronometros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/relojes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/repuestos-relojes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/smartwatch/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://joyas.mercadolibre.com.py/relojes-otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/juegos-y-juguetes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/bloques-construccion/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/casas-carpas-ninos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/electronicos-ninos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/figuritas-albumes-cromos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/hobbies/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/instrumentos-musicale/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-agua-playa/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-mesa-cartas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-plaza-aire-libre/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-salon/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juguetes-bromas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juguetes-oficios/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juguetes-bebes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/mesas-sillas-ninos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/munecos-munecas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/patines-patinetas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/peloteros-castillos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/peluches/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/titeres-marionetas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/vehiculos-juguete/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juguetes-vehiculos-ninos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/juegos-y-juguetes-otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/libros-revistas-y-comics/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/catalogos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/comics/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/libros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/manga/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/revistas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/libros-revistas-y-comics-otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/musica-y-peliculas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/cursos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/musica/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/peliculas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/series-tv/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/musica-y-peliculas-otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/belleza-higiene-personal/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/ensenanza/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/fiestas-y-eventos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/mantenimiento-hogar/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/medicos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/transporte-general/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/viajes-y-turismo/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://servicios.mercadolibre.com.py/servicios-otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://home.mercadolibre.com.py/otras-categorias/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/adultos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/delicatessen/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/animales-y-mascotas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/bebes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/belleza-cuidado-personal/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/cigarros-afines/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/coberturas-extendidas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/criptomonedas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/esoterismo/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/gift-cards/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/industrias-y-oficinas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/insumos-tatuajes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/kits-criminalistica/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/licencias-taxis/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/mangas-viento/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/pirotecnia/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/salud-equipamiento-medico/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.py/otras-categorias-otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1747-accesorios_para_vehiculos
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1512-agro
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1403-alimentos_y_bebidas
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1071-animales_y_mascotas
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1367-antiguedades_y_colecciones
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/443829-arte__libreria_y_merceria
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1743-autos__motos_y_otros
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1384-bebes
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1246-belleza_y_cuidado_personal
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1039-camaras_y_accesorios
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1051-celulares_y_telefonos
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1648-computacion
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1144-consolas_y_videojuegos
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1276-deportes_y_fitness
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1575-electrodomesticos
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1000-electronica__audio_y_video
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1574-hogar__muebles_y_jardin
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1499-industrias_y_oficinas
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1459-inmuebles
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1182-instrumentos_musicales
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/3937-joyas_y_relojes
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1132-juegos_y_juguetes
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/3025-libros__revistas_y_comics
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1168-musica_y_peliculas
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1430-ropa_y_accesorios
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/409431-salud_y_equipamiento_medico
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1540-servicios
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://tendencias.mercadolibre.com.pe/1953-otras_categorias
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/ropa/bolsos-carteras-billeteras/carteras/guess-cartera
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/goliat-monta%C3%B1era-colca
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/industria-textil/pulpo-estampado-textil
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/zapatillas-terrex-adidas
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/mangas-termocontraibles
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/salud-belleza/vitaminas-centrum
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/fitness-musculacion/malvinas-pesas
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/futbol-ropa-calzado-camisetas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/malla-electrosoldada
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/servilletas-de-tela
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/pulsometro
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/acc-motos-cuatrimotos-cascos/casco-cross
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/casa-en-alquiler
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/salud-equipamiento-medico-suplementos/magnesio
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/videojuegos/volante-pc
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/push-up
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/macetero
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/vehiculos/camiones/camion-foton-aumark
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/ropa-de-ba%C3%B1o-ni%C3%B1a
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/electronica/audio/auriculares/sennheiser-audifonos
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/autos/autos-camionetas/volkswagen-golf
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/autos/autos-camionetas/honda-accord
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/quemadores-para-cocina
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/r15
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/volquetes-en-tacna
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/electrodomesticos-belleza-planchitas/alisadora
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/casacas-sacos-blazers/casaca-tommy
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/hormiguero
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/electrodomesticos/coccion/hornos/horno-electrico-thomas
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/luminaria
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/andadores-caminadores/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/andadores-vehiculos-bebes-bicicletas-equilibrio/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/correpasillos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/triciclos/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/adaptador-inodoro/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/almohadas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/bacin-entrenamiento/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/baneras/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/batas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/cepillos-dientes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/sillas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/termometros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/toallas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/urinarios/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-bano/otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/cambiadores-portatiles/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/articulos-maternidad-diarios-bebes/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/fajas-embarazadas/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/kit/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/articulos-maternidad-pezoneras/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/ropa/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/chupones/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/alimentarios/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/mordedores/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/otros/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/porta-chupones/
+2020-12-02 11:28:36 - find_new_listpage_run.py[line:167] - INFO: https://listado.mercadolibre.com.pe/bebes/comida/bebidas/
+2020-12-02 11:28:37 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://ropa.mercadolibre.com.py/vestidos-bano/
+2020-12-02 11:28:37 - filelock.py[line:274] - INFO: Lock 2680030359904 acquired on C:\Users\DELL\AppData\Local\Programs\Python\Python39\lib\site-packages\tldextract\.suffix_cache/publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2020-12-02 11:28:37 - filelock.py[line:274] - INFO: Lock 2680030421824 acquired on C:\Users\DELL\AppData\Local\Programs\Python\Python39\lib\site-packages\tldextract\.suffix_cache/urls\62bf135d1c2f3d4db4228b9ecaf507a2.tldextract.json.lock
+2020-12-02 11:28:37 - filelock.py[line:318] - INFO: Lock 2680030421824 released on C:\Users\DELL\AppData\Local\Programs\Python\Python39\lib\site-packages\tldextract\.suffix_cache/urls\62bf135d1c2f3d4db4228b9ecaf507a2.tldextract.json.lock
+2020-12-02 11:28:37 - filelock.py[line:318] - INFO: Lock 2680030359904 released on C:\Users\DELL\AppData\Local\Programs\Python\Python39\lib\site-packages\tldextract\.suffix_cache/publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2020-12-02 11:28:37 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:37 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:37 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:37 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:37 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:37 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/transporte-general/
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/3937-joyas_y_relojes
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/almohadas/
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/push-up
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/articulos-maternidad-pezoneras/
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/macetero
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:38 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/plumas-lapiceras-lujo/
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/mordedores/
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1168-musica_y_peliculas
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:39 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juguetes-oficios/
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/autos/autos-camionetas/honda-accord
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/criptomonedas/
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/ropa/bolsos-carteras-billeteras/carteras/guess-cartera
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:40 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/coberturas-extendidas/
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://ropa.mercadolibre.com.py/vestidos/
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:41 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/industrias-y-oficinas/
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1743-autos__motos_y_otros
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/ropa-de-ba%C3%B1o-ni%C3%B1a
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juegos-y-juguetes-otros/
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:42 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/toallas/
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/servilletas-de-tela
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/casacas-sacos-blazers/casaca-tommy
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/otros/
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/teclados-pianos/
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/acc-motos-cuatrimotos-cascos/casco-cross
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:43 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/esoterismo/
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/malla-electrosoldada
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/fitness-musculacion/malvinas-pesas
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:44 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/salud-equipamiento-medico/
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/instrumentos-musicales-otros/
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:45 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/patines-patinetas/
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/adaptador-inodoro/
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1499-industrias_y_oficinas
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/chupones/
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1747-accesorios_para_vehiculos
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:46 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/mesas-sillas-ninos/
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1953-otras_categorias
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1246-belleza_y_cuidado_personal
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/medicos/
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:47 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://joyas.mercadolibre.com.py/relojes-otros/
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1071-animales_y_mascotas
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/joyas-bisuteria/
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/otros/
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/bacin-entrenamiento/
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:48 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juegos-salon/
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1430-ropa_y_accesorios
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:49 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://inmuebles.mercadolibre.com.py/casa/
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/autos/autos-camionetas/volkswagen-golf
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/repuestos-relojes/
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/luminaria
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:50 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://inmuebles.mercadolibre.com.py/habitaciones/
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/pulsometro
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1051-celulares_y_telefonos
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:51 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://inmuebles.mercadolibre.com.py/oficina/
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/termometros/
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/ropa/
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/electrodomesticos/coccion/hornos/horno-electrico-thomas
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/zapatillas-terrex-adidas
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/batas/
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1575-electrodomesticos
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/443829-arte__libreria_y_merceria
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:52 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/videojuegos/volante-pc
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juguetes-bebes/
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/fajas-embarazadas/
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/electrodomesticos-belleza-planchitas/alisadora
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1182-instrumentos_musicales
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/alimentarios/
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:53 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://home.mercadolibre.com.py/otras-categorias/
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/otros/
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://home.mercadolibre.com.py/instrumentos-musicales/
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:54 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/3025-libros__revistas_y_comics
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://home.mercadolibre.com.py/libros-revistas-y-comics/
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/chupones-mordedores/porta-chupones/
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:55 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1574-hogar__muebles_y_jardin
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/zapatos/
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1459-inmuebles
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:56 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/instrumentos-cuerdas/
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/cambiadores-portatiles/
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/industria-textil/pulpo-estampado-textil
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/409431-salud_y_equipamiento_medico
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/otras-categorias-otros/
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:57 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://ropa.mercadolibre.com.py/trajes/
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/vehiculos-juguete/
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:58 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://inmuebles.mercadolibre.com.py/fincas/
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://inmuebles.mercadolibre.com.py/otros/
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:28:59 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/titeres-marionetas/
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/munecos-munecas/
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/otros/
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/comida/bebidas/
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:00 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/lotes-ropa/
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juguetes-bromas/
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:01 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/salud-equipamiento-medico-suplementos/magnesio
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/viajes-y-turismo/
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/salud-belleza/vitaminas-centrum
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1540-servicios
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:02 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/fiestas-y-eventos/
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://ropa.mercadolibre.com.py/ropa-bebes/
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:03 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/mantenimiento-hogar/
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/correpasillos/
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/urinarios/
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/goliat-monta%C3%B1era-colca
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/servicios-otros/
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:04 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/mangas-termocontraibles
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://servicios.mercadolibre.com.py/belleza-higiene-personal/
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/electronica/audio/auriculares/sennheiser-audifonos
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:05 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/libros/
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1132-juegos_y_juguetes
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:06 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1384-bebes
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/casa-en-alquiler
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://tendencias.mercadolibre.com.pe/1512-agro
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:07 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juegos-mesa-cartas/
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/relojes/
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:08 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/juguetes-vehiculos-ninos/
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.py/comics/
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibreParaguay-Dondecompraryvenderdetodo
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -95, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-maternidad/kit/
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/articulos-bano/cepillos-dientes/
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/triciclos/
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:09 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:10 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/quemadores-para-cocina
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:172] - INFO: utf-8: https://listado.mercadolibre.com.pe/bebes/andadores-vehiculos/andadores-caminadores/
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:100] - INFO: 0percent:0%MercadoLibrePerú-Dondecompraryvenderdetodo
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:114] - INFO: 40={"status": true, "_title_len_score": 100, "_title_keyword_score": 0, "_url_len_score": 100, "_param_count_score": 50, "_url_filename_score": -20, "_url_keyword_score": 0}
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:100] - INFO: 2percent:40%Términosycondiciones
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:114] - INFO: 0={"status": true, "_title_len_score": 50, "_title_keyword_score": 0, "_url_len_score": -90, "_param_count_score": 40, "_url_filename_score": 20, "_url_keyword_score": 0}
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:100] - INFO: 3percent:60%Políticasdeprivacidad
+2020-12-02 11:29:11 - find_new_listpage_run.py[line:100] - INFO: 4percent:80%Ayuda

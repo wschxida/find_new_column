@@ -5,7 +5,8 @@
 # @Date  : 2020/4/21
 # @Desc  :
 
-
+import sys
+sys.path.append('../..')
 import lib.common as common
 
 
@@ -14,10 +15,9 @@ def main():
 
     # ID每增长1万个，编入同一个网站编号
     insert_website = '''
-        insert into cloud_task_schedule(Cloud_Server_Count,Website_No,ListPage_URL_Count)
-        select 63,website_no,count(1) from cloud_listpage_url
-        where Cloud_Listpage_URL_ID>23170000
-        GROUP BY Website_No order by Cloud_Listpage_URL_ID;
+        insert into cloud_task_schedule(Cloud_Server_Count,cloud_server_id,ListPage_URL_Count)
+        select 63,cloud_server_id,count(1) from cloud_listpage_url
+        GROUP BY cloud_server_id order by cloud_server_id;
     '''
     print(insert_website)
 

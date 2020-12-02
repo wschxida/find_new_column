@@ -9,6 +9,7 @@
 import os
 import configparser
 import logging
+from logging.handlers import RotatingFileHandler
 import redis
 import json
 import hashlib
@@ -26,17 +27,22 @@ from functools import wraps
 
 # 日志记录
 logger = logging.getLogger()
-logger.setLevel('DEBUG')
+logger.setLevel('INFO')
+
 BASIC_FORMAT = "%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s"
 DATE_FORMAT = '%Y-%m-%d %H:%M:%S'
 formatter = logging.Formatter(BASIC_FORMAT, DATE_FORMAT)
-chlr = logging.StreamHandler()  # 输出到控制台的handler
-chlr.setFormatter(formatter)
-chlr.setLevel('ERROR')  # 也可以不设置，不设置就默认用logger的level, ERROR
-fhlr = logging.FileHandler('./log/find_new_listpage_run.log')  # 输出到文件的handler
-fhlr.setFormatter(formatter)
-logger.addHandler(chlr)
-logger.addHandler(fhlr)
+
+logFile = './log/find_new_listpage_run.log'
+fl_handler = RotatingFileHandler(logFile, mode='a', maxBytes=5*1024*1024, backupCount=2, encoding='utf-8', delay=0)
+fl_handler.setFormatter(formatter)
+
+stream = logging.StreamHandler()  # 输出到控制台的handler
+stream.setFormatter(formatter)
+stream.setLevel('INFO')
+
+logger.addHandler(fl_handler)
+logger.addHandler(stream)
 
 # 忽略mysql插入时主键重复的警告
 warnings.filterwarnings('ignore')
@@ -90,7 +96,8 @@ def parse_html_to_database(database_config, url, column_extraction_deep, domain_
             # 计算a节点占全部a节点百分比，如果总节点小于50就去前50%的节点；如果在50和200之前，就取前30%；大于200，就取前20%
             len_items = len(items)
             node_percent = num/len(items)
-            print(num, 'percent:{:.0%}'.format(node_percent), title)
+            # print(num, 'percent:{:.0%}'.format(node_percent), title)
+            logger.info(str(num) + 'percent:{:.0%}'.format(node_percent) + title)
             if len_items < 50:
                 if node_percent > 0.5:
                     continue
@@ -104,7 +111,7 @@ def parse_html_to_database(database_config, url, column_extraction_deep, domain_
             # 垃圾词、垃圾域名过滤
             level_score, score_detail = common.is_need_filter(title, listpage_url, True)
             # print(level_score, score_detail)
-            logging.info(str(level_score) + '=' + score_detail)
+            logger.info(str(level_score) + '=' + score_detail)
 
             # 入库分值，新闻要大于等于20，论坛要大于等于10
             valid_score = 20
@@ -122,7 +129,7 @@ def parse_html_to_database(database_config, url, column_extraction_deep, domain_
         common.query_mysql(database_config, insert_column)
         return True
     except Exception as e:
-        logging.ERROR(traceback.format_exc())
+        logger.error(traceback.format_exc())
 
 
 async def get_response(database_config, semaphore, url, column_extraction_deep=1, domain_code_source=None, website_no=None, Is_Need_VPN=0):
@@ -157,20 +164,21 @@ async def get_response(database_config, semaphore, url, column_extraction_deep=1
                     proxy = 'http://127.0.0.1:7777'
                 else:
                     proxy = None
+                logger.info(url)
                 async with session.get(url, headers=headers, proxy=proxy) as response:
                     # errors='ignore',解决'gb2312' codec can't decode
                     text = await response.text(errors='ignore')
                     # print(response.get_encoding(), url)
+                    logger.info(response.get_encoding() + ': ' + url)
                     # 有些网站识别编码错误，如https://www.bannedbook.org/，识别是Windows-1254
                     if 'Windows' in response.get_encoding():
                         text = await response.text(errors='ignore', encoding='utf-8')
-                    # print(text)
                     parse_html_to_database(database_config, url, column_extraction_deep, domain_code_source, website_no, Is_Need_VPN, text)
                     return len(text)
 
     except Exception as e:
         if len(str(e)) > 0:
-            logging.error(str(e))
+            logger.error(str(e))
         return None
 
 
@@ -185,7 +193,9 @@ def create_task(loop, database_config):
             from column_link where Extracted_flag is null
             ORDER BY Column_Extraction_Deep limit 200;
             """
+        print('=====query new tasks=====')
         target_items = common.query_mysql(database_config, select_column)
+        print('=====start tasks=====')
         id_list = [0]
         for item in target_items:
             id_list.append(item["Column_Link_ID"])
@@ -200,15 +210,17 @@ def create_task(loop, database_config):
 
         results = loop.run_until_complete(asyncio.gather(*tasks))
         # print(results)
+        print('=====finish tasks=====')
         # 更新Extracted_flag
         id_list = tuple(id_list)
         update_flag = f"update column_link set Extracted_flag='S' where Column_Link_ID in {id_list};"
+        print('=====update flag=====')
         common.query_mysql(database_config, update_flag)
         return len(target_items)
 
     except Exception as e:
         if len(str(e)) > 0:
-            logging.error(str(e))
+            logger.error(str(e))
         return None
 
 
@@ -227,7 +239,7 @@ def main():
             if target_count < 1:
                 time.sleep(10)
         except Exception as e:
-            logging.error(str(e))
+            logger.error(str(e))
             # break
     # event_loop.close()
 
@@ -236,4 +248,4 @@ if __name__ == '__main__':
     try:
         main()
     except Exception as e:
-        logging.ERROR(traceback.format_exc())
+        logger.error(traceback.format_exc())

@@ -1,18 +1,19 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @File  : 5_update_cloud_server_id.py
+# @File  : --5_update_cloud_server_id.py
 # @Author: Cedar
 # @Date  : 2020/4/21
 # @Desc  :
 
-
+import sys
+sys.path.append('../..')
 import lib.common as common
 
 
 def main():
     extractor_116 = {'host': '192.168.1.116', 'port': 3306, 'user': 'root', 'passwd': 'poms@db', 'db': 'mymonitor'}
 
-    select_sql = 'select cloud_server_id,website_no from cloud_task_schedule where Schedule_ID>2310;'
+    select_sql = 'select cloud_server_id,website_no from cloud_task_schedule;'
 
     try:
         results = common.query_mysql(extractor_116, select_sql)
